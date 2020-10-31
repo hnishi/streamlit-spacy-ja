@@ -16,4 +16,3 @@ for model in models:
         imp.reload(pkg_resources)
 
 spacy_streamlit.visualize(models, "")
-
