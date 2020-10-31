@@ -1,5 +1,7 @@
 # 日本語 spacy-streamlit 
 
+![Python CI](https://github.com/hnishi/streamlit-spacy-ja/workflows/Python%20application/badge.svg?branch=master)
+
 ## 実行
 
 ```shell
